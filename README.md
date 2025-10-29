@@ -62,7 +62,7 @@ After successful deployment, the site is live at:
 skillbridge-react/
 │
 ├── public/
-│   └── 404.html
+│   └── bi.img
 │
 ├── src/
 │   ├── components/
