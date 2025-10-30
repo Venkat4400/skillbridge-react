@@ -2,6 +2,8 @@
 
 A full-stack volunteer–NGO platform built using **React + TypeScript + Vite** and hosted with **GitHub Pages**.  
 This project connects **volunteers** and **NGOs** through opportunities, applications, and real-time messaging.
+<img width="1920" height="918" alt="Screenshot 2025-10-30 150428" src="https://github.com/user-attachments/assets/611891c2-1b12-416c-acb6-371272348a96" />
+
 
 🔗 **Live Demo:** [https://venkat4400.github.io/skillbridge-react/](https://venkat4400.github.io/skillbridge-react/)
 
@@ -42,8 +44,6 @@ npm install
 
 3️⃣ Run Locally
 npm run dev
-<img width="1920" height="918" alt="Screenshot 2025-10-30 150428" src="https://github.com/user-attachments/assets/611891c2-1b12-416c-acb6-371272348a96" />
-
 
 Then open: http://localhost:5173
 
