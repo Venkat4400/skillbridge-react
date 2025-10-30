@@ -42,6 +42,7 @@ npm install
 
 3️⃣ Run Locally
 npm run dev
+<img width="1920" height="918" alt="Screenshot 2025-10-30 150428" src="https://github.com/user-attachments/assets/611891c2-1b12-416c-acb6-371272348a96" />
 
 
 Then open: http://localhost:5173
